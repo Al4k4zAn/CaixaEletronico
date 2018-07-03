@@ -9,8 +9,8 @@
     # Ao fazer um saque, deve deduzir do saldo do cliente
     # No final deve exibir uma mensagem de sucesso
 
-Requisito novo:
-    #O valor máximo de saque por transação deve ser de 700 reais
+    Requisito novo:
+    # O valor máximo de saque por transação deve ser de 700 reais
 
 
 **************
